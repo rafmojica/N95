@@ -1,0 +1,54 @@
+body {
+  background-color: #f4f4f423;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  font: normal 18px Arial, Helvetica, sans-serif; /*same as above*/
+  line-height: 1.6em;
+  margin: 0%;
+}
+
+h1{
+    background-color: #333;
+    color:darkorange;
+    line-height: 1.2em;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.container-2{
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.paragraph-1 {
+    background-color: #333;
+    color:#fff;
+    
+    border: 5px yellowgreen solid;
+    padding: 15px;
+}
+
+.paragraph-2 {
+    background-color: #333;
+    color:#fff;
+  
+    border: 5px yellowgreen solid;
+    padding: 15px;
+  }
+
+.ugly {
+    font-family: normal;
+    font-size: normal;
+    font-weight: normal;
+    line-height: 0%;
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+}
