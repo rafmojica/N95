@@ -1,12 +1,11 @@
 body {
-  background-color: #f4f4f423;
+  background-color: #bdbdbd;
 
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   font-weight: normal;
   font: normal 18px Arial, Helvetica, sans-serif; /*same as above*/
   line-height: 1.6em;
-  margin: 0%;
 }
 
 h1{
@@ -51,4 +50,24 @@ h1{
     width: 80%;
     margin: auto;
     padding-top: 10px;
+}
+
+.THIS-SHIT-HARD {
+    color: rgb(221, 0, 0);
+    font-weight: bold;
+    font-size: 22px;
+    padding-right: 5px;
+    padding-left: 12px;
+    padding-bottom: 5px;
+    line-height: 0.3em;
+}
+
+.THIS-SHIT-HARD-2 {
+    color: rgb(221, 0, 0);
+    font-weight: bold;
+    font-size: 22px;
+    padding-right: 5px;
+    padding-left: 12px;
+    padding-bottom: 5px;
+    line-height: 0.3em;
 }
